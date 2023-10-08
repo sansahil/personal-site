@@ -1,6 +1,7 @@
 baseurl: "/"
 languageCode: "en-us"
 theme: "hugo-xmin"
+title: "Asutosh Panda"
 googleAnalytics: ""
 disqusShortname: ""
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
