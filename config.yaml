@@ -1,6 +1,5 @@
 baseurl: "/"
 languageCode: "en-us"
-title: "Asutosh Panda"
 theme: "hugo-xmin"
 googleAnalytics: ""
 disqusShortname: ""
