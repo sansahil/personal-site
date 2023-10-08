@@ -6,7 +6,7 @@ title: Home
 
 ## About Me
 
-I'm Asutosh Panda, known as `measutosh` around the internet, a software engineer who loves tinkering with Golang, MERN, Backend, and DevOps. It's been 3 years since the journey started.
+I'm Asutosh Panda, known as `exitAsutosh` around the internet, a software engineer who loves tinkering with Golang, MERN, Backend, and DevOps. It's been 3 years since the journey started.
 
 ### What I Do Best 
 
