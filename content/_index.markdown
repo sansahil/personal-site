@@ -26,7 +26,7 @@ Currently, I'm digging deep into Svelte, SvelteKit, NixOS, Doge Coin Peering.
 
 ### Contacts
 
-[GitHub](https://github.com/exitAsutosh) | [LinkedIn](https://www.linkedin.com/in/exitAsutosh) | [Email](mailto:asutosh.pda@gmail.com) | [Resume](https://drive.google.com/file/d/1NQVimyvleLbaoHkigrpV4A4-Go31aZDR/view?usp=sharing)
+[GitHub](https://github.com/exitAsutosh) | [LinkedIn](https://www.linkedin.com/in/exitAsutosh) | [Email](mailto:asutosh.pda@gmail.com) | [Resume](https://drive.google.com/file/d/1JHswQNOhUZL9WkMoc7e5XNwmcc5SAN5u/view?usp=sharing)
 
 **Fun Fact**: Behind the code, I'm a storytelling cinematographer.
 
